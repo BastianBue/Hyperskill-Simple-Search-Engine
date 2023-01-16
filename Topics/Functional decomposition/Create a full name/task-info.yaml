@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // implement your function here
+    fun createFullName...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12674#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    John
+    Lennon
+    Correct output:
+    John Lennon
+
+    Your code output:
+    John Lennon
+    kotlin.Unit
+  time: Thu, 12 Jan 2023 21:18:16 UTC
+record: -1
